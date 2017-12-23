@@ -60,7 +60,7 @@ Quick start
    If not defined in settings file, default values will be used.
 
 
-5. In case of any query or issue, please feel free to reach out to me. Email provided in MANIFEST file.
+5. In case of any query or issue, please feel free to reach out to me. Email provided in setup file.
 
 
 
